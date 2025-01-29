@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "SHOP",
       "name": "Shopify Inc.",
-      "marketCap": "$139,133,144,728",
+      "marketCap": "$138,745,515,239",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.35",
       "noOfEsts": "15"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "MCO",
       "name": "Moody's Corporation",
-      "marketCap": "$88,724,580,000",
+      "marketCap": "$89,891,508,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.60",
       "noOfEsts": "7"
@@ -101,17 +101,6 @@
       "noOfEsts": "14"
     },
     {
-      "lastYearRptDt": "2/14/2024",
-      "lastYearEPS": "$0.37",
-      "time": "time-after-hours",
-      "symbol": "ET",
-      "name": "Energy Transfer L.P.",
-      "marketCap": "$72,073,442,682",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.36",
-      "noOfEsts": "4"
-    },
-    {
       "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$1.55",
       "time": "time-pre-market",
@@ -123,12 +112,23 @@
       "noOfEsts": "10"
     },
     {
+      "lastYearRptDt": "2/14/2024",
+      "lastYearEPS": "$0.37",
+      "time": "time-after-hours",
+      "symbol": "ET",
+      "name": "Energy Transfer L.P.",
+      "marketCap": "$67,827,786,201",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.36",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/06/2024",
       "lastYearEPS": "$0.53",
       "time": "time-pre-market",
       "symbol": "CARR",
       "name": "Carrier Global Corporation",
-      "marketCap": "$62,913,582,553",
+      "marketCap": "$60,500,040,952",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.51",
       "noOfEsts": "7"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "AMX",
       "name": "America Movil, S.A.B. de C.V.",
-      "marketCap": "$44,120,925,000",
+      "marketCap": "$44,089,700,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.31",
       "noOfEsts": "1"
@@ -161,7 +161,7 @@
       "time": "time-pre-market",
       "symbol": "FIS",
       "name": "Fidelity National Information Services, Inc.",
-      "marketCap": "$42,653,815,467",
+      "marketCap": "$43,665,921,652",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.35",
       "noOfEsts": "12"
@@ -172,7 +172,7 @@
       "time": "time-pre-market",
       "symbol": "HUM",
       "name": "Humana Inc.",
-      "marketCap": "$35,476,793,988",
+      "marketCap": "$35,853,681,491",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($2.26)",
       "noOfEsts": "11"
@@ -183,7 +183,7 @@
       "time": "time-pre-market",
       "symbol": "DD",
       "name": "DuPont de Nemours, Inc.",
-      "marketCap": "$32,333,030,594",
+      "marketCap": "$32,040,461,807",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.98",
       "noOfEsts": "5"
@@ -223,6 +223,17 @@
     },
     {
       "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$1.99",
+      "time": "time-pre-market",
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "marketCap": "$19,809,479,362",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$2.18",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$2.06",
       "time": "time-not-supplied",
       "symbol": "WSO",
@@ -231,17 +242,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.13",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$1.99",
-      "time": "time-pre-market",
-      "symbol": "LDOS",
-      "name": "Leidos Holdings, Inc.",
-      "marketCap": "$19,426,526,339",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.18",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -293,7 +293,7 @@
       "time": "time-not-supplied",
       "symbol": "DVA",
       "name": "DaVita Inc.",
-      "marketCap": "$13,962,960,000",
+      "marketCap": "$14,393,460,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.21",
       "noOfEsts": "2"
@@ -304,7 +304,7 @@
       "time": "time-after-hours",
       "symbol": "AIZ",
       "name": "Assurant, Inc.",
-      "marketCap": "$10,816,507,598",
+      "marketCap": "$11,057,558,265",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$3.82",
       "noOfEsts": "5"
@@ -315,20 +315,9 @@
       "time": "time-not-supplied",
       "symbol": "ALSN",
       "name": "Allison Transmission Holdings, Inc.",
-      "marketCap": "$10,360,089,870",
+      "marketCap": "$9,991,076,635",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.93",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$2.65",
-      "time": "time-pre-market",
-      "symbol": "WCC",
-      "name": "WESCO International, Inc.",
-      "marketCap": "$9,701,348,052",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.22",
       "noOfEsts": "5"
     },
     {
@@ -337,7 +326,7 @@
       "time": "time-not-supplied",
       "symbol": "PRI",
       "name": "Primerica, Inc.",
-      "marketCap": "$9,684,713,994",
+      "marketCap": "$9,675,703,716",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$4.96",
       "noOfEsts": "6"
@@ -354,12 +343,23 @@
       "noOfEsts": "10"
     },
     {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$2.65",
+      "time": "time-pre-market",
+      "symbol": "WCC",
+      "name": "WESCO International, Inc.",
+      "marketCap": "$8,895,760,811",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$3.22",
+      "noOfEsts": "5"
+    },
+    {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "($1.50)",
       "time": "time-pre-market",
       "symbol": "SUN",
       "name": "Sunoco LP",
-      "marketCap": "$8,506,134,313",
+      "marketCap": "$8,507,658,437",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.56",
       "noOfEsts": "2"
@@ -392,7 +392,7 @@
       "time": "time-after-hours",
       "symbol": "ADC",
       "name": "Agree Realty Corporation",
-      "marketCap": "$7,436,033,888",
+      "marketCap": "$7,701,051,942",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.03",
       "noOfEsts": "8"
@@ -409,6 +409,17 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$0.74",
+      "time": "time-not-supplied",
+      "symbol": "BFAM",
+      "name": "Bright Horizons Family Solutions Inc.",
+      "marketCap": "$6,983,150,664",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.80",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-after-hours",
@@ -418,17 +429,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.02",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$0.74",
-      "time": "time-not-supplied",
-      "symbol": "BFAM",
-      "name": "Bright Horizons Family Solutions Inc.",
-      "marketCap": "$6,702,125,687",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.80",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -454,17 +454,6 @@
     },
     {
       "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$3.24",
-      "time": "time-not-supplied",
-      "symbol": "HRI",
-      "name": "Herc Holdings Inc.",
-      "marketCap": "$5,995,073,398",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$4.18",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "($0.51)",
       "time": "time-after-hours",
       "symbol": "UPST",
@@ -486,15 +475,15 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$3.24",
       "time": "time-not-supplied",
-      "symbol": "INGM",
-      "name": "Ingram Micro Holding Corporation",
-      "marketCap": "$5,478,480,804",
+      "symbol": "HRI",
+      "name": "Herc Holdings Inc.",
+      "marketCap": "$5,655,638,512",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.89",
-      "noOfEsts": "1"
+      "epsForecast": "$4.18",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/06/2024",
@@ -508,12 +497,23 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "INGM",
+      "name": "Ingram Micro Holding Corporation",
+      "marketCap": "$5,393,943,595",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.89",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$0.50",
       "time": "time-after-hours",
       "symbol": "KRG",
       "name": "Kite Realty Group Trust",
-      "marketCap": "$5,230,250,531",
+      "marketCap": "$5,320,313,644",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.53",
       "noOfEsts": "5"
@@ -557,21 +557,10 @@
       "time": "time-after-hours",
       "symbol": "ST",
       "name": "Sensata Technologies Holding plc",
-      "marketCap": "$4,277,594,178",
+      "marketCap": "$4,276,098,515",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.76",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$0.12",
-      "time": "time-after-hours",
-      "symbol": "MIR",
-      "name": "Mirion Technologies, Inc.",
-      "marketCap": "$4,206,289,884",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.12",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -608,11 +597,22 @@
     },
     {
       "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$0.12",
+      "time": "time-after-hours",
+      "symbol": "MIR",
+      "name": "Mirion Technologies, Inc.",
+      "marketCap": "$3,400,335,941",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.12",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$0.48",
       "time": "time-not-supplied",
       "symbol": "REZI",
       "name": "Resideo Technologies, Inc.",
-      "marketCap": "$3,403,861,074",
+      "marketCap": "$3,353,890,748",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.50",
       "noOfEsts": "2"
@@ -623,21 +623,10 @@
       "time": "time-after-hours",
       "symbol": "HIW",
       "name": "Highwoods Properties, Inc.",
-      "marketCap": "$3,118,060,728",
+      "marketCap": "$3,164,709,716",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.85",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$0.10",
-      "time": "time-pre-market",
-      "symbol": "USAC",
-      "name": "USA Compression Partners, LP",
-      "marketCap": "$3,065,998,224",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.26",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/12/2024",
@@ -645,7 +634,7 @@
       "time": "time-after-hours",
       "symbol": "TDC",
       "name": "Teradata Corporation",
-      "marketCap": "$3,057,615,000",
+      "marketCap": "$3,086,325,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.21",
       "noOfEsts": "3"
@@ -684,6 +673,28 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$0.10",
+      "time": "time-pre-market",
+      "symbol": "USAC",
+      "name": "USA Compression Partners, LP",
+      "marketCap": "$2,851,846,440",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.26",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$0.28",
+      "time": "time-after-hours",
+      "symbol": "AKR",
+      "name": "Acadia Realty Trust",
+      "marketCap": "$2,851,376,409",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.33",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/06/2024",
       "lastYearEPS": "$0.51",
       "time": "time-after-hours",
@@ -706,17 +717,6 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$0.28",
-      "time": "time-after-hours",
-      "symbol": "AKR",
-      "name": "Acadia Realty Trust",
-      "marketCap": "$2,747,276,641",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.33",
-      "noOfEsts": "4"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$64.67",
       "time": "time-not-supplied",
@@ -733,21 +733,10 @@
       "time": "time-after-hours",
       "symbol": "IVT",
       "name": "InvenTrust Properties Corp.",
-      "marketCap": "$2,296,172,930",
+      "marketCap": "$2,313,912,930",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.41",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "BKV",
-      "name": "BKV Corporation",
-      "marketCap": "$2,241,061,973",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -764,11 +753,11 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
-      "symbol": "NPWR",
-      "name": "NET Power Inc.",
-      "marketCap": "$2,147,730,411",
+      "symbol": "BKV",
+      "name": "BKV Corporation",
+      "marketCap": "$2,056,633,317",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.16)",
+      "epsForecast": "($0.06)",
       "noOfEsts": "1"
     },
     {
@@ -780,6 +769,17 @@
       "marketCap": "$1,990,938,476",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.10",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "NPWR",
+      "name": "NET Power Inc.",
+      "marketCap": "$1,777,209,216",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.16)",
       "noOfEsts": "1"
     },
     {
@@ -817,25 +817,25 @@
     },
     {
       "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "($0.30)",
-      "time": "time-not-supplied",
-      "symbol": "MODG",
-      "name": "Topgolf Callaway Brands Corp.",
-      "marketCap": "$1,474,267,966",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.40)",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$0.18",
       "time": "time-pre-market",
       "symbol": "KLG",
       "name": "WK Kellogg Co",
-      "marketCap": "$1,462,406,643",
+      "marketCap": "$1,514,081,789",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.26",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "($0.30)",
+      "time": "time-not-supplied",
+      "symbol": "MODG",
+      "name": "Topgolf Callaway Brands Corp.",
+      "marketCap": "$1,481,620,924",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.40)",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "N/A",
@@ -854,21 +854,10 @@
       "time": "time-not-supplied",
       "symbol": "SILA",
       "name": "Sila Realty Trust, Inc.",
-      "marketCap": "$1,336,948,140",
+      "marketCap": "$1,360,606,070",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.53",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "($0.04)",
-      "time": "time-after-hours",
-      "symbol": "SMWB",
-      "name": "Similarweb Ltd.",
-      "marketCap": "$1,311,110,136",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.03)",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -876,7 +865,7 @@
       "time": "time-after-hours",
       "symbol": "MRC",
       "name": "MRC Global Inc.",
-      "marketCap": "$1,301,660,640",
+      "marketCap": "$1,283,759,610",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.08",
       "noOfEsts": "1"
@@ -887,10 +876,21 @@
       "time": "time-not-supplied",
       "symbol": "NMM",
       "name": "Navios Maritime Partners LP",
-      "marketCap": "$1,258,085,291",
+      "marketCap": "$1,240,880,190",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$3.07",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "($0.04)",
+      "time": "time-after-hours",
+      "symbol": "SMWB",
+      "name": "Similarweb Ltd.",
+      "marketCap": "$1,240,324,346",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.03)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -898,7 +898,7 @@
       "time": "time-not-supplied",
       "symbol": "SDHC",
       "name": "Smith Douglas Homes Corp.",
-      "marketCap": "$1,246,666,659",
+      "marketCap": "$1,223,076,916",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.46",
       "noOfEsts": "1"
@@ -964,7 +964,7 @@
       "time": "time-not-supplied",
       "symbol": "SITC",
       "name": "SITE Centers Corp.",
-      "marketCap": "$813,716,098",
+      "marketCap": "$821,056,321",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.23",
       "noOfEsts": "1"
@@ -986,7 +986,7 @@
       "time": "time-pre-market",
       "symbol": "MYTE",
       "name": "MYT Netherlands Parent B.V.",
-      "marketCap": "$792,120,786",
+      "marketCap": "$787,857,488",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.03)",
       "noOfEsts": "1"
