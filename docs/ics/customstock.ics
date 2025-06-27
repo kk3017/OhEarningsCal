@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xXHr6VGcEVYxhCI2Iz00q
+UID:uYzN6115iDQNiXggTJagM
 SUMMARY:SALESFORCE 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250528
 DESCRIPTION:财务季度：Apr/2025。\n代码：CRM，公司：SALESFORCE，行业: NA。\n预计每股收益: $1.87，当前市
 	值: $265\,264\,830\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lyi4V7t115mW27qb_drOh
+UID:xiqCsGlJpTCVE9gDVk54q
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250528
 DESCRIPTION:财务季度：Apr/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.67)，当前市值: $
 	3\,055\,645\,380。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9q1EepYfm6dZ6KYr6XKgz
+UID:5U3beYSYAtuYOizXpR6qo
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250529
 DESCRIPTION:财务季度：Mar/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $30\,149\
 	,861\,474。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3TMPOkwymepOnbKEWSOP2
+UID:hGRa2McHB1Lv2qm75JfBr
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250603
 DESCRIPTION:财务季度：Mar/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.22)，当前市值: $7\
 	,928\,346\,811。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3fYU9doi9RM6eQMeFUGxh
+UID:rU-iqR5YHuhsZjKdkDrAe
 SUMMARY:ASANA 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250603
 DESCRIPTION:财务季度：Apr/2025。\n代码：ASAN，公司：ASANA，行业: NA。\n预计每股收益: ($0.19)，当前市值:
 	 $4\,428\,425\,551。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASAN \n在
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NYepIKSL8C9dYcDAm91KM
+UID:KJB0ZA6I27mVgOhN4Sqoj
 SUMMARY:ORACLE 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250611
 DESCRIPTION:财务季度：May/2025。\n代码：ORCL，公司：ORACLE，行业: N/A。\n预计每股收益: $1.30，当前市值:
 	 $494\,610\,792\,920。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DLsu1myEiDbonbehjowvc
+UID:5LtA0jZ5K2YRhNUX9iOdE
 SUMMARY:SAP 盘后发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250722
-DESCRIPTION:财务季度：Jun/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.62，当前市值: $360
-	\,308\,006\,203。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Jun/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.62，当前市值: $363
+	\,084\,425\,768。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vAXfCyjPxjGQ0bJ1i_DEv
+UID:dYrSh-Q3sKbOx0xaYdpmS
 SUMMARY:SERVICENOW 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250723
-DESCRIPTION:财务季度：Jun/2025。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $1.69，当前市
-	值: $208\,068\,120\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
+DESCRIPTION:财务季度：Jun/2025。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $1.70，当前市
+	值: $209\,368\,080\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
 	\n在富途查看：https://www.futunn.com/hk/stock/NOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SazejbodxcLKMN8o2zgPv
+UID:8FAli7Y6lJuG92YwD8qcy
 SUMMARY:PEGASYSTEMS 发布财报
-DTSTAMP:20250627T045300Z
+DTSTAMP:20250627T164943Z
 DTSTART;VALUE=DATE:20250723
 DESCRIPTION:财务季度：Jun/2025。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.11，当
-	前市值: $8\,655\,788\,765。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
+	前市值: $8\,934\,786\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
 	 \n在富途查看：https://www.futunn.com/hk/stock/PEGA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
