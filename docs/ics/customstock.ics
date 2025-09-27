@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:S2Pw0QtrDcCPta4mU5qHK
+UID:77oPnlH7PqhIbYWzspHuA
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250927T044250Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:财务季度：Jun/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,615\
 	,155\,419。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zh2xCBKJDe52DFbBCAGAS
+UID:RA5ipHRJuOKbSRAFLUBig
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250927T044250Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:财务季度：Jun/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.30)，当前市值: $14
 	\,778\,618\,135。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f_PI_7BqdADFNs7Z7WHj8
+UID:qUjjJqETF7cXs_5HrMHON
 SUMMARY:SALESFORCE 发布财报
-DTSTAMP:20250927T044250Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：CRM，公司：SALESFORCE，行业: NA。\n预计每股收益: $2.12，当前市
 	值: $245\,166\,200\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM 
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hqffsjfZ78eqJDbjWXF1f
+UID:n_0aRXq21NU-aznLSV9E2
 SUMMARY:ASANA 发布财报
-DTSTAMP:20250927T044251Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：ASAN，公司：ASANA，行业: NA。\n预计每股收益: ($0.17)，当前市值:
 	 $3\,348\,634\,721。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASAN \n在
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zGYTdo8m6yF02MX0_2JHr
+UID:WEg3Zxm4j7yRkwdWQm1OA
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20250927T044251Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.81)，当前市值: $
 	2\,241\,557\,246。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Hu8jf35uzE6vc759huLnJ
+UID:85helzl62Q0Al86d8rrrB
 SUMMARY:ORACLE 发布财报
-DTSTAMP:20250927T044251Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20250909
 DESCRIPTION:财务季度：Aug/2025。\n代码：ORCL，公司：ORACLE，行业: N/A。\n预计每股收益: $1.15，当前市值:
 	 $678\,361\,257\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1VxlJkRZLK8qTJXLLHhte
+UID:jLb2mlNlpjc9zzLQDUAsr
 SUMMARY:SAP 盘后发布财报
-DTSTAMP:20250927T044251Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20251022
-DESCRIPTION:财务季度：Sep/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.70，当前市值: $330
-	\,283\,362\,773。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Sep/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.70，当前市值: $322
+	\,494\,645\,942。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_JQ1HO8jtge2Q3lG29e_b
+UID:3JgbxNAGoDglnOJ2_-mNw
 SUMMARY:SERVICENOW 发布财报
-DTSTAMP:20250927T044251Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $2.34，当前市
-	值: $194\,140\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
+	值: $191\,070\,880\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
 	\n在富途查看：https://www.futunn.com/hk/stock/NOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,13 +134,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-vo3EhSI18dYI-xp_ia_8
+UID:ZxUEuw0EdVv2303mkWTOU
 SUMMARY:PEGASYSTEMS 发布财报
-DTSTAMP:20250927T044251Z
+DTSTAMP:20250927T164326Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.04，当
-	前市值: $10\,295\,634\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEG
-	A \n在富途查看：https://www.futunn.com/hk/stock/PEGA-US 
+	前市值: $9\,972\,291\,963。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
+	 \n在富途查看：https://www.futunn.com/hk/stock/PEGA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
