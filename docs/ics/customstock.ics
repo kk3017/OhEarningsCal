@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:idQ5oRgFm8AvIHLF1efxa
+UID:vstny9V6PZrNvk5cQBM9S
 SUMMARY:ORACLE 发布财报
-DTSTAMP:20260105T051053Z
+DTSTAMP:20260105T165359Z
 DTSTART;VALUE=DATE:20251210
 DESCRIPTION:财务季度：Nov/2025。\n代码：ORCL，公司：ORACLE，行业: N/A。\n预计每股收益: $1.29，当前市值:
 	 $633\,730\,639\,140。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SBtXdFAImNz1-spcBnC3l
+UID:8M4aSsMls7HULQ4PmH1Db
 SUMMARY:SAP 发布财报
-DTSTAMP:20260105T051053Z
+DTSTAMP:20260105T165359Z
 DTSTART;VALUE=DATE:20260127
-DESCRIPTION:财务季度：Dec/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.74，当前市值: $298
-	\,415\,962\,995。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Dec/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.74，当前市值: $291
+	\,057\,222\,645。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JU4xK201brJHTHGOEUl6P
+UID:RGhuD8sfoMIlu2fCzw9dq
 SUMMARY:ATLASSIAN 发布财报
-DTSTAMP:20260105T051053Z
+DTSTAMP:20260105T165359Z
 DTSTART;VALUE=DATE:20260129
 DESCRIPTION:财务季度：Dec/2025。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: ($0.07)，当
-	前市值: $42\,660\,833\,430。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEA
+	前市值: $40\,719\,073\,526。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEA
 	M \n在富途查看：https://www.futunn.com/hk/stock/TEAM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
