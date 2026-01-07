@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:epbOnk736gwuR-fc_Ifhk
+UID:65JnoGodYFp-4eKYZiwWR
 SUMMARY:ORACLE 发布财报
-DTSTAMP:20260107T050010Z
+DTSTAMP:20260107T165802Z
 DTSTART;VALUE=DATE:20251210
 DESCRIPTION:财务季度：Nov/2025。\n代码：ORCL，公司：ORACLE，行业: N/A。\n预计每股收益: $1.29，当前市值:
 	 $633\,730\,639\,140。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rhjOBVH8-QkI3aN0tqj9r
+UID:5E_l7MBRY8HyRcfaRBWjQ
 SUMMARY:SAP 发布财报
-DTSTAMP:20260107T050010Z
+DTSTAMP:20260107T165802Z
 DTSTART;VALUE=DATE:20260127
-DESCRIPTION:财务季度：Dec/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.74，当前市值: $295
-	\,381\,557\,542。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Dec/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.74，当前市值: $292
+	\,359\,437\,131。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KfnQL8Wj-jAockv9HjW6S
+UID:FGfgklexwXKsblKuov03e
 SUMMARY:AUTOMATIC DATA PROCESSING 盘前发布财报
-DTSTAMP:20260107T050010Z
+DTSTAMP:20260107T165802Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：ADP，公司：AUTOMATIC DATA PROCESSING，行业: NA。\n预计
-	每股收益: $2.58，当前市值: $104\,072\,750\,806。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	每股收益: $2.58，当前市值: $105\,609\,656\,033。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iCR8JNh4klPlajzLdDqhN
+UID:t7dw-V_U1zpkFQyCZ3dY2
 SUMMARY:ATLASSIAN 发布财报
-DTSTAMP:20260107T050010Z
+DTSTAMP:20260107T165802Z
 DTSTART;VALUE=DATE:20260129
 DESCRIPTION:财务季度：Dec/2025。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: ($0.07)，当
-	前市值: $40\,487\,535\,760。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEA
+	前市值: $41\,666\,273\,479。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEA
 	M \n在富途查看：https://www.futunn.com/hk/stock/TEAM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zc0_UqJJRpRj4n51FZ30T
+UID:aCKba0iU7BVssNFtjsWJN
 SUMMARY:SERVICENOW 发布财报
-DTSTAMP:20260107T050010Z
+DTSTAMP:20260107T165802Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $0.48，当前市
-	值: $153\,266\,466\,582。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
+	值: $154\,522\,919\,323。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
 	\n在富途查看：https://www.futunn.com/hk/stock/NOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
