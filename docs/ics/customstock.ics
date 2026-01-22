@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:45ZjkGsKHZjLLOoTJgSdL
+UID:tPx7ZqXRdJtNIjOkJEj5Q
 SUMMARY:SERVICENOW 盘后发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $0.48，当前市
-	值: $132\,197\,519\,380。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
+	值: $130\,214\,193\,153。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
 	\n在富途查看：https://www.futunn.com/hk/stock/NOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bmXSwl7H5uV9MnHil4upM
+UID:vh5V6ysCQ0b0uX1AzNlAA
 SUMMARY:AUTOMATIC DATA PROCESSING 盘前发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：ADP，公司：AUTOMATIC DATA PROCESSING，行业: NA。\n预计
-	每股收益: $2.58，当前市值: $105\,334\,630\,887。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	每股收益: $2.58，当前市值: $103\,174\,874\,594。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZudD_-T6Pb5pkxguTiYDE
+UID:v3T7QrlBeB54upaRvM_zR
 SUMMARY:SAP 盘前发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260129
-DESCRIPTION:财务季度：Dec/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.76，当前市值: $286
-	\,966\,303\,553。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Dec/2025。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $1.76，当前市值: $278
+	\,772\,180\,325。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u1oac04jegsasPXYV7K-C
+UID:Vrl66fC7zDmBfc1kGMT3B
 SUMMARY:ATLASSIAN 盘后发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:财务季度：Dec/2025。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: ($0.07)，当
 	前市值: $31\,077\,092\,709。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEA
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rnIsYwRrX31o5eKXuL4Wa
-SUMMARY:MONDAY 发布财报
-DTSTAMP:20260121T173931Z
+UID:dlfRdfiNTdoS7iyKLB8ht
+SUMMARY:MONDAY 盘前发布财报
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260209
 DESCRIPTION:财务季度：Dec/2025。\n代码：MNDY，公司：MONDAY，行业: NA。\n预计每股收益: $0.12，当前市值: 
-	$6\,432\,981\,798。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MNDY \n在富
+	$6\,442\,628\,732。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MNDY \n在富
 	途查看：https://www.futunn.com/hk/stock/MNDY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eTVeojYg_0RhGxWRKEbds
+UID:R9iSfWPHmEzdc8IxMgREu
 SUMMARY:FRESHWORKS 盘后发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260210
 DESCRIPTION:财务季度：Dec/2025。\n代码：FRSH，公司：FRESHWORKS，行业: NA。\n预计每股收益: ($0.05)，
-	当前市值: $3\,127\,066\,741。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRS
+	当前市值: $3\,084\,770\,978。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRS
 	H \n在富途查看：https://www.futunn.com/hk/stock/FRSH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gnU8aqVS5BswhChUZeMOO
+UID:0Bc7FI_acqapUA8Be9Igp
 SUMMARY:HUBSPOT 发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:财务季度：Dec/2025。\n代码：HUBS，公司：HUBSPOT，行业: NA。\n预计每股收益: $0.90，当前市值:
-	 $16\,338\,005\,646。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
+	 $15\,966\,592\,089。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
 	在富途查看：https://www.futunn.com/hk/stock/HUBS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rwcUfTplduvHRNIrLY0HS
+UID:pyp1PBCqxjgwqqkB94m3q
 SUMMARY:PEGASYSTEMS 发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:财务季度：Dec/2025。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.52，当
-	前市值: $8\,823\,887\,488。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
+	前市值: $8\,662\,650\,844。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
 	 \n在富途查看：https://www.futunn.com/hk/stock/PEGA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2WDfgdsjGc_MyN-uKPNtw
+UID:7CufrohiXhYXYDEelokMr
 SUMMARY:百度 发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260217
 DESCRIPTION:财务季度：Dec/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.18，当前市值: $51
-	\,404\,062\,079。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+	\,572\,509\,818。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iEfTWb3FZUxuPnaRcoXYE
+UID:zCDtwHsGrjk-6ANy2twEv
 SUMMARY:APPIAN 发布财报
-DTSTAMP:20260121T173931Z
+DTSTAMP:20260122T050326Z
 DTSTART;VALUE=DATE:20260218
 DESCRIPTION:财务季度：Dec/2025。\n代码：APPN，公司：APPIAN，行业: NA。\n预计每股收益: ($0.04)，当前市值
 	: $2\,091\,410\,349。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APPN \n
