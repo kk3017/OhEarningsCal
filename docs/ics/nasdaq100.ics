@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Mf7vavWanyXHJzg2c0Km4
+UID:91Scab4pKGgCuly4E_Ern
 SUMMARY:CrowdStrike 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:财务季度：Jan/2026。\n代码：CRWD，公司：CrowdStrike，行业: 信息技术。\n预计每股收益: $0.20
 	，当前市值: $98\,676\,371\,385。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=C
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GlF9cYTs4dhLo1U0fnZwM
+UID:Pe_FU6-6NHXFkx-jXPSah
 SUMMARY:罗斯百货 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:财务季度：Jan/2026。\n代码：ROST，公司：罗斯百货，行业: 非必需消费品。\n预计每股收益: $1.88，当前市值
 	: $63\,925\,655\,570。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ROST \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1E5EssXP0RLPLgKD-Tea5
+UID:6xunKBSS_Qq-ckFD2LHAV
 SUMMARY:博通有限 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260304
 DESCRIPTION:财务季度：Jan/2026。\n代码：AVGO，公司：博通有限，行业: 信息技术。\n预计每股收益: $1.67，当前市值: 
 	$1\,503\,695\,897\,388。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uB0ZPuYaYtyvbNst8XfZQ
+UID:JgLmy7LULw-3LkrRtK4jw
 SUMMARY:Okta 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260304
 DESCRIPTION:财务季度：Jan/2026。\n代码：OKTA，公司：Okta，行业: 2020年12月21日。\n预计每股收益: $0.30
 	，当前市值: $12\,714\,496\,055。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=O
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Xo7SyTiP9azvx_oQiQAek
+UID:JpmpaSUAlwqG8BtstOtw8
 SUMMARY:好市多 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:财务季度：Feb/2026。\n代码：COST，公司：好市多，行业: 必需品。\n预计每股收益: $4.55，当前市值: $4
 	36\,132\,767\,166。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5ajKlwkRGuRaqg3rsxzcH
+UID:piRcN1RGH_9vtL_o8XuHA
 SUMMARY:美满电子科技 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:财务季度：Jan/2026。\n代码：MRVL，公司：美满电子科技，行业: 信息技术。\n预计每股收益: $0.62，当前市值
 	: $65\,931\,411\,499。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRVL \
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1PC4ZYNFv3oArKPkherSB
+UID:xfk9cf7IyJiXSASqYhv8f
 SUMMARY:京东 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:财务季度：Dec/2025。\n代码：JD，公司：京东，行业: 非必需消费品。\n预计每股收益: ($0.03)，当前市值: 
 	$37\,015\,410\,227。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KN4dyPCcyhq48YGZu-3K6
+UID:K7kVjc6_lbVVfraYgd1F6
 SUMMARY:Adobe 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260312
 DESCRIPTION:财务季度：Feb/2026。\n代码：ADBE，公司：Adobe，行业: 信息技术。\n预计每股收益: $4.85，当前市值:
 	 $110\,744\,690\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ADBE \
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YxN3X6jHYePNuFNq1GcOx
+UID:-ML2-04QYBG4WpT6Y6Z6y
 SUMMARY:美元树 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260316
 DESCRIPTION:财务季度：Jan/2026。\n代码：DLTR，公司：美元树，行业: 非必需消费品。\n预计每股收益: $2.53，当前市值:
 	 $22\,740\,850\,465。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DLTR \n
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cugolEsB3ppGMUzhYAUwy
+UID:XYfJBwgQOsaAuleTwTw0h
 SUMMARY:露露柠檬 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260317
 DESCRIPTION:财务季度：Jan/2026。\n代码：LULU，公司：露露柠檬，行业: 非必需消费品。\n预计每股收益: $4.76，当前市值
 	: $17\,868\,507\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zivZKcx-BSu61QX8m_tQ2
+UID:8-QZ0HnwsPYKY4pVdyZys
 SUMMARY:美光科技 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260318
 DESCRIPTION:财务季度：Feb/2026。\n代码：MU，公司：美光科技，行业: 信息技术。\n预计每股收益: $8.64，当前市值: $5
 	19\,681\,391\,082。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在富途查
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WaGd_NZT-POIBhLKzn08T
+UID:fMKpu0A5FtnK_r8yJlUhH
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:财务季度：Dec/2025。\n代码：PDD，公司：拼多多，行业: 非必需消费品。\n预计每股收益: $3.21，当前市值: 
 	$145\,669\,923\,466。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在
@@ -198,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XPSM0PM1y-g-vDG3u3hDR
+UID:InWloalgo6FwRT0LRrz_a
 SUMMARY:信达思 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:财务季度：Feb/2026。\n代码：CTAS，公司：信达思，行业: 工业。\n预计每股收益: $1.23，当前市值: $70
 	\,720\,483\,895。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CTAS \n在富途查
@@ -214,9 +214,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8_3PQQgrUAlBSUBlDtUir
+UID:tzZAId2-aW-VC3NoJzQv0
 SUMMARY:沛齐 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:财务季度：Feb/2026。\n代码：PAYX，公司：沛齐，行业: 信息技术。\n预计每股收益: $1.68，当前市值: $3
 	3\,513\,201\,132。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PAYX \n在富途
@@ -230,12 +230,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Jwp8pwnJj4YkE-148flZi
+UID:jY2WJZX-9J7YfY4uZXPu2
 SUMMARY:快扣 盘前发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260413
 DESCRIPTION:财务季度：Mar/2026。\n代码：FAST，公司：快扣，行业: 工业。\n预计每股收益: $0.30，当前市值: $51\
-	,795\,864\,251。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FAST \n在富途查看
+	,612\,150\,257。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FAST \n在富途查看
 	：https://www.futunn.com/hk/stock/FAST-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -246,12 +246,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qIwidDdbBFpYQh98LpSA0
+UID:jyo1c_dnqb2LSdhMDz0jn
 SUMMARY:艾司摩尔 盘前发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASML，公司：艾司摩尔，行业: 信息技术。\n预计每股收益: $7.61，当前市值: 
-	$512\,412\,785\,618。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASML \n
+	$501\,994\,946\,133。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASML \n
 	在富途查看：https://www.futunn.com/hk/stock/ASML-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -262,12 +262,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:49agFrv5HE6s0FFP1ejGi
+UID:5B4A_NbKEakfE1fBUxzw_
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $0.76，当前市
-	值: $394\,012\,171\,838。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $394\,476\,609\,675。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -278,12 +278,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DxxerC0NaHD13Sju6EOkz
+UID:YXHnD4rO4SZbV20Gjkhu-
 SUMMARY:百事公司 盘前发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：PEP，公司：百事公司，行业: 必需品。\n预计每股收益: $1.54，当前市值: $2
-	06\,131\,676\,664。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途
+	09\,151\,971\,071。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途
 	查看：https://www.futunn.com/hk/stock/PEP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -294,12 +294,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TeMDLPqf672xGaIWezv07
+UID:Br4fdao0MVvA37SeaNnAT
 SUMMARY:泛林集团 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：LRCX，公司：泛林集团，行业: 信息技术。\n预计每股收益: $1.35，当前市值: 
-	$264\,264\,919\,020。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LRCX \n
+	$264\,002\,677\,110。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LRCX \n
 	在富途查看：https://www.futunn.com/hk/stock/LRCX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -310,12 +310,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WpawIMTzJFY5fRmboLook
+UID:RgAD5kMeDqXgwwXdXnvp3
 SUMMARY:德州仪器 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：TXN，公司：德州仪器，行业: 信息技术。\n预计每股收益: $1.37，当前市值: $
-	176\,092\,721\,746。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TXN \n在富
+	173\,288\,494\,544。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TXN \n在富
 	途查看：https://www.futunn.com/hk/stock/TXN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -326,12 +326,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:L0k7mWEerXkhzuhXWSNPo
+UID:EnTfykZw8_-Q3qQSYz3Ej
 SUMMARY:奥莱利 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：ORLY，公司：奥莱利，行业: 非必需消费品。\n预计每股收益: $0.69，当前市值:
-	 $77\,367\,198\,627。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORLY \n
+	 $75\,556\,066\,634。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORLY \n
 	在富途查看：https://www.futunn.com/hk/stock/ORLY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -342,12 +342,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iV1BFnMF4ACEHLtkFfpy1
+UID:6eZ4vnFnMp9XiPKk7Vh_N
 SUMMARY:CSX公司 盘后发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：CSX，公司：CSX公司，行业: 工业。\n预计每股收益: $0.40，当前市值: $7
-	3\,545\,471\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSX \n在富途查
+	3\,768\,618\,216。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSX \n在富途查
 	看：https://www.futunn.com/hk/stock/CSX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -358,12 +358,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uzE3SG8AfMJJnokevXHQR
+UID:LJxlX_Tucb5kpv-SDZxvk
 SUMMARY:Old Dominion Freight Line 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:财务季度：Mar/2026。\n代码：ODFL，公司：Old Dominion Freight Line，行业: 工业。\n预
-	计每股收益: $1.05，当前市值: $39\,169\,426\,579。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	计每股收益: $1.05，当前市值: $39\,254\,881\,082。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ODFL \n在富途查看：https://www.futunn.com/hk/stock/ODFL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -374,12 +374,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ASg--VaagRx1KthjI-zdt
+UID:FX9fO7YM8jLJ2t0lVNmEG
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
-	: $2.76，当前市值: $3\,398\,289\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
+	: $2.76，当前市值: $3\,318\,690\,980\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
 	//?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -390,12 +390,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YDJswykqEZ4iOkLCBx4_G
+UID:XZ4oEbAF7Ni3vRJZfkzAB
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
-	益: $2.76，当前市值: $3\,398\,289\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	益: $2.76，当前市值: $3\,318\,690\,980\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/stock/GOOGL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -406,28 +406,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:E9ZI-bRAQLWZmgA6abKJQ
-SUMMARY:T-Mobile美国 发布财报
-DTSTAMP:20260330T061733Z
-DTSTART;VALUE=DATE:20260423
-DESCRIPTION:财务季度：Mar/2026。\n代码：TMUS，公司：T-Mobile美国，行业: 通讯服务。\n预计每股收益: $2.27，
-	当前市值: $233\,143\,136\,945。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=T
-	MUS \n在富途查看：https://www.futunn.com/hk/stock/TMUS-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:DmI3azppqe8TwxK8571Ll
+UID:Svjy241ZNJlD2zf8gAmkI
 SUMMARY:英特尔 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: ($0.11)，当前市值:
-	 $221\,087\,648\,244。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
+	 $216\,224\,722\,647。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
 	n在富途查看：https://www.futunn.com/hk/stock/INTC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -438,12 +422,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:o-UA2TQoLS-iT6MZpsn9U
+UID:QmgWFomy29wjJnupijIn-
 SUMMARY:吉利德科学 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GILD，公司：吉利德科学，行业: 卫生保健。\n预计每股收益: $1.86，当前市值:
-	 $169\,925\,641\,873。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GILD \
+	 $166\,660\,705\,884。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GILD \
 	n在富途查看：https://www.futunn.com/hk/stock/GILD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -454,12 +438,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IWDwm6YXQ4ZvmPMLMqHXt
+UID:hp15XefqhvXIUYUHB6urJ
 SUMMARY:霍尼韦尔 盘前发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：HON，公司：霍尼韦尔，行业: 工业。\n预计每股收益: $2.31，当前市值: $14
-	3\,135\,097\,594。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富途查
+	1\,831\,962\,407。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富途查
 	看：https://www.futunn.com/hk/stock/HON-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -470,12 +454,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HRd5NvETyE5EvGM3HY4om
+UID:xllu8pIX2jc3SOnmbERb4
 SUMMARY:康卡斯特 盘前发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
-DESCRIPTION:财务季度：Mar/2026。\n代码：CMCSA，公司：康卡斯特，行业: 通讯服务。\n预计每股收益: $0.86，当前市值:
-	 $103\,330\,136\,948。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CMCSA 
+DESCRIPTION:财务季度：Mar/2026。\n代码：CMCSA，公司：康卡斯特，行业: 通讯服务。\n预计每股收益: $0.83，当前市值:
+	 $101\,926\,977\,010。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CMCSA 
 	\n在富途查看：https://www.futunn.com/hk/stock/CMCSA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -486,12 +470,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NIYO2K7jEWRZ69sMR3dsL
+UID:-jh3NTHu8K3lIB7HrEV8X
 SUMMARY:贝克休斯 盘后发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：BKR，公司：贝克休斯，行业: N/A。\n预计每股收益: $0.53，当前市值: $6
-	1\,626\,428\,764。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BKR \n在富途查
+	2\,476\,312\,162。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BKR \n在富途查
 	看：https://www.futunn.com/hk/stock/BKR-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -502,12 +486,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bpUCwDHZz1j3Ro38j31rQ
+UID:RXQ-x0DyWDV6fr_8VuseD
 SUMMARY:埃克西尔 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：XEL，公司：埃克西尔，行业: 公共事业。\n预计每股收益: $0.93，当前市值: $
-	48\,618\,720\,037。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XEL \n在富途
+	48\,718\,540\,327。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XEL \n在富途
 	查看：https://www.futunn.com/hk/stock/XEL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -518,12 +502,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dwtV4Bnipnz75B6JWB9kw
-SUMMARY:Keurig Dr Pepper 发布财报
-DTSTAMP:20260330T061733Z
+UID:U_5JAsR4A7bUTBXLBKDDS
+SUMMARY:Keurig Dr Pepper 盘前发布财报
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：KDP，公司：Keurig Dr Pepper，行业: 必需品。\n预计每股收益: $0
-	.37，当前市值: $35\,379\,665\,399。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	.37，当前市值: $35\,637\,810\,728。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=KDP \n在富途查看：https://www.futunn.com/hk/stock/KDP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -534,12 +518,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zcDgOYzXylvkneJvKWJYh
+UID:Or5QYZ7MrXlQkx__bMKKQ
 SUMMARY:特许通讯 盘前发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260424
 DESCRIPTION:财务季度：Mar/2026。\n代码：CHTR，公司：特许通讯，行业: 通讯服务。\n预计每股收益: $10.22，当前市值:
-	 $30\,848\,885\,629。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CHTR \n
+	 $30\,937\,828\,002。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CHTR \n
 	在富途查看：https://www.futunn.com/hk/stock/CHTR-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -550,12 +534,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Lp-hY5KtgPCDBeDldhpSn
+UID:rKx0oXk9zUUAzXkZBYOYP
 SUMMARY:Cadence 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260427
 DESCRIPTION:财务季度：Mar/2026。\n代码：CDNS，公司：Cadence，行业: 信息技术。\n预计每股收益: $1.52，当前市
-	值: $77\,476\,956\,122。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CDNS 
+	值: $75\,033\,541\,320。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CDNS 
 	\n在富途查看：https://www.futunn.com/hk/stock/CDNS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -566,12 +550,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-1by3-HvIcplCXIOOoGyK
+UID:3DsY0CO9fmB2PfFcFjozN
 SUMMARY:恩智浦半导体 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260427
 DESCRIPTION:财务季度：Mar/2026。\n代码：NXPI，公司：恩智浦半导体，行业: 信息技术。\n预计每股收益: $2.61，当前市值
-	: $49\,760\,275\,037。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NXPI \
+	: $48\,431\,110\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NXPI \
 	n在富途查看：https://www.futunn.com/hk/stock/NXPI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -582,12 +566,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VUZPlRXuS0W5c2dBZ0Mar
+UID:NLPBtrTj_SR14E5RCXIwk
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.24，当前市值:
-	 $1\,396\,317\,465\,566。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL
+	 $1\,357\,742\,464\,771。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL
 	A \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -598,12 +582,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CBSfidKfieZw3tfOUkQjQ
+UID:cRPoq4zz7f3bLp3XvCYPF
+SUMMARY:T-Mobile美国 盘后发布财报
+DTSTAMP:20260330T173109Z
+DTSTART;VALUE=DATE:20260428
+DESCRIPTION:财务季度：Mar/2026。\n代码：TMUS，公司：T-Mobile美国，行业: 通讯服务。\n预计每股收益: $2.27，
+	当前市值: $232\,294\,702\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=T
+	MUS \n在富途查看：https://www.futunn.com/hk/stock/TMUS-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ho3LkEdEHEBxtYUDjqviV
 SUMMARY:直觉手术 发布财报
-DTSTAMP:20260330T061733Z
+DTSTAMP:20260330T173109Z
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:财务季度：Mar/2026。\n代码：ISRG，公司：直觉手术，行业: 卫生保健。\n预计每股收益: $1.63，当前市值: 
-	$166\,396\,272\,546。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ISRG \n
+	$160\,753\,253\,080。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ISRG \n
 	在富途查看：https://www.futunn.com/hk/stock/ISRG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
