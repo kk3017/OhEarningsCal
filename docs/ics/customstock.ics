@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Oa2Y59OFgz-PTIxT8HhSJ
+UID:XX4OfohywpjXbbyDZMUR-
 SUMMARY:PEGASYSTEMS 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.23，当
 	前市值: $5\,170\,570\,618。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hB5YXFv_7b1rQbELjGr34
+UID:y4e5Is5CkhWUbByhjgN8q
 SUMMARY:SERVICENOW 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $0.40，当前市
 	值: $98\,419\,260\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dHXmpxojRtxq_9z_Z67MZ
+UID:IAr2mXhJe9k8x3daUPetP
 SUMMARY:SAP 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2，当前市值: $179\,8
 	28\,449\,480。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看：ht
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hDzo7iJQ63b1b24xB3wTn
-SUMMARY:AUTOMATIC DATA PROCESSING 盘前发布财报
-DTSTAMP:20260730T071718Z
+UID:mW02-4vhK4zU_8CQ5k4dG
+SUMMARY:AUTOMATIC DATA PROCESSING 发布财报
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ADP，公司：AUTOMATIC DATA PROCESSING，行业: NA。\n预计
-	每股收益: $2.59，当前市值: $106\,366\,561\,638。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	每股收益: $2.59，当前市值: $110\,070\,889\,787。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JZ-lBFXK9tc4Es57_nQcN
+UID:JRv037PxfEdFVY3duk2Ek
 SUMMARY:FRESHWORKS 盘后发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：FRSH，公司：FRESHWORKS，行业: NA。\n预计每股收益: ($0.03)，
-	当前市值: $3\,090\,533\,987。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRS
+	当前市值: $3\,209\,400\,679。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRS
 	H \n在富途查看：https://www.futunn.com/hk/stock/FRSH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cg3316ta5I0rQhBxt2mNY
+UID:SXvMGzbXVo8DdvG7KM_Ij
 SUMMARY:HUBSPOT 盘后发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260805
 DESCRIPTION:财务季度：Jun/2026。\n代码：HUBS，公司：HUBSPOT，行业: NA。\n预计每股收益: $0.71，当前市值:
-	 $12\,192\,383\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
+	 $12\,861\,798\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
 	在富途查看：https://www.futunn.com/hk/stock/HUBS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J32KmYPrQ4krnqYTZ-cfR
+UID:X4t4A_uzFYCY3qszIEH6j
 SUMMARY:ATLASSIAN 盘后发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260806
 DESCRIPTION:财务季度：Jun/2026。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: $0.32，当前市
-	值: $25\,371\,710\,843。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
+	值: $26\,462\,912\,649。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
 	\n在富途查看：https://www.futunn.com/hk/stock/TEAM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2utSXEv-BDTUAorxYMvag
+UID:7WBsvio_dGkFrHEEPVn2t
 SUMMARY:APPIAN 盘前发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260806
 DESCRIPTION:财务季度：Jun/2026。\n代码：APPN，公司：APPIAN，行业: NA。\n预计每股收益: ($0.15)，当前市值
-	: $2\,007\,821\,482。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APPN \n
+	: $2\,109\,864\,329。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APPN \n
 	在富途查看：https://www.futunn.com/hk/stock/APPN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_mDkGGOdJM5ZdiQiuf99J
+UID:Fn0LOscjZMKvSTgQRwyK2
 SUMMARY:MONDAY 盘前发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260810
 DESCRIPTION:财务季度：Jun/2026。\n代码：MNDY，公司：MONDAY，行业: NA。\n预计每股收益: $0.34，当前市值: 
-	$4\,046\,460\,144。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MNDY \n在富
+	$4\,193\,283\,133。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MNDY \n在富
 	途查看：https://www.futunn.com/hk/stock/MNDY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nDgGyn7o8OGur6QmNPVqG
+UID:aLG3hL4WTsBNDEZrW3CP2
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260818
-DESCRIPTION:财务季度：Jun/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $12\,14
-	8\,590\,403。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
+DESCRIPTION:财务季度：Jun/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $12\,48
+	3\,130\,658。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vO7-7jPp8U0rUpZJQyCqP
+UID:V-Fla4vzMPsKlP1ApUAwH
 SUMMARY:百度 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260819
 DESCRIPTION:财务季度：Jun/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.19，当前市值: $35
-	\,699\,308\,982。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+	\,818\,397\,413。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tGwavbYunUAJy4BLzUkbq
+UID:5NthzfqSEsm9yY57b6wkU
 SUMMARY:WORKDAY 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260820
 DESCRIPTION:财务季度：Jul/2026。\n代码：WDAY，公司：WORKDAY，行业: NA。\n预计每股收益: $1.26，当前市值:
-	 $39\,443\,430\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WDAY \n
+	 $41\,498\,470\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WDAY \n
 	在富途查看：https://www.futunn.com/hk/stock/WDAY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v1ib9c6qRffmMA-tMwDxf
+UID:BDjL08hC057ji6dOiSc6T
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260730T071718Z
+DTSTAMP:20260730T175910Z
 DTSTART;VALUE=DATE:20260827
 DESCRIPTION:财务季度：Jun/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ($0.01)，当前市值: $1
-	4\,111\,655\,195。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看
+	4\,741\,925\,941。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看
 	：https://www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
