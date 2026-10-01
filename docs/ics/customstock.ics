@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:NhTZlAFib426mzvL_EdBO
+UID:3BnBKcoLwiQ1hNuftaKaq
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jun/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.07)，当前市值: $10
 	\,173\,007\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Jam3qMraYDVwPv4ibO9xZ
+UID:Cmi3-1EpjhooKPQIYHrWM
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.64)，当前市值: $
 	1\,684\,117\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:x5l2zIMxRCszX-rLt0j15
+UID:5QAD3Hhf985Fzd2A_NJLe
 SUMMARY:ASANA 发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20260903
 DESCRIPTION:财务季度：Jul/2026。\n代码：ASAN，公司：ASANA，行业: NA。\n预计每股收益: ($0.11)，当前市值:
 	 $2\,325\,844\,220。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASAN \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EWK6Jnv2-KqWm49VfJPWv
+UID:czctLFs183CEtN6AVfOY3
 SUMMARY:ORACLE 发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：ORACLE，行业: N/A。\n预计每股收益: $1.39，当前市值:
 	 $440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Nnt51l_slNp1llQf4SGjH
+UID:nGalnJr0tDMdqHRDVNllj
 SUMMARY:PEGASYSTEMS 发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.30，当
-	前市值: $5\,420\,430\,800。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
+	前市值: $5\,471\,396\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
 	 \n在富途查看：https://www.futunn.com/hk/stock/PEGA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Lxds2GwJCAiXm8fAO5V0r
+UID:xcwgnNGLAJ7HlAFR40TWn
 SUMMARY:SAP 盘后发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20261021
-DESCRIPTION:财务季度：Sep/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2.04，当前市值: $259
-	\,030\,122\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Sep/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2.04，当前市值: $256
+	\,118\,555\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:B9lCIBbBzWB06rC64NoLT
+UID:tiCpnlZ6ggCdC0lRKyd8_
 SUMMARY:AUTOMATIC DATA PROCESSING 盘前发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：ADP，公司：AUTOMATIC DATA PROCESSING，行业: NA。\n预计
-	每股收益: $2.78，当前市值: $103\,738\,655\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	每股收益: $2.78，当前市值: $102\,256\,673\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6jvLSaJX2YQhf8kpv-9tm
+UID:w9wOqhtXZO2saadxE8CaK
 SUMMARY:ATLASSIAN 发布财报
-DTSTAMP:20260930T205842Z
+DTSTAMP:20261001T110914Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: $0.26，当前市
-	值: $44\,542\,304\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
+	值: $45\,385\,257\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
 	\n在富途查看：https://www.futunn.com/hk/stock/TEAM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
