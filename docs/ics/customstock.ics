@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fCuXGLK1AidA13ukToPTy
+UID:-OGof1_N8Gv_oybZi10Uv
 SUMMARY:ORACLE 发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：ORACLE，行业: N/A。\n预计每股收益: $1.39，当前市值:
 	 $440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qpwYx9sHNw4jU6ksfHWtS
+UID:gWlcFC_ojmUgE0dGSrgKD
 SUMMARY:PEGASYSTEMS 发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.30，当
 	前市值: $5\,676\,902\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6TFRxFbEJhoKMpWUIGKyE
+UID:oQ4CK-6mXqznoq4-NOz1D
 SUMMARY:SAP 盘后发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261021
-DESCRIPTION:财务季度：Sep/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2.04，当前市值: $256
-	\,229\,130\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Sep/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2.04，当前市值: $255
+	\,209\,472\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eIlex64Cb7XwtMVUWGqrU
+UID:8fTNaa3YYb-vK03lY2cAX
 SUMMARY:AUTOMATIC DATA PROCESSING 盘前发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：ADP，公司：AUTOMATIC DATA PROCESSING，行业: NA。\n预计
-	每股收益: $2.78，当前市值: $102\,106\,096\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	每股收益: $2.78，当前市值: $103\,128\,424\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:idss13uxM1Aqj87TnFaDW
+UID:SZhqJ-4uyflWMqxCOQGxa
 SUMMARY:ATLASSIAN 发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: $0.26，当前市
-	值: $47\,562\,252\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
+	值: $49\,779\,749\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
 	\n在富途查看：https://www.futunn.com/hk/stock/TEAM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BF7DLYvVlbqfyd8Acrw6Q
+UID:DWTAADHWkFUtTv9cKFmWY
 SUMMARY:SERVICENOW 发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $0.57，当前市
-	值: $138\,948\,919\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
+	值: $140\,706\,726\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
 	\n在富途查看：https://www.futunn.com/hk/stock/NOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oyexDl-TAE044xQ0dx5ht
+UID:c7vX9RL-ShhwWclcR-K1q
 SUMMARY:HUBSPOT 发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：HUBS，公司：HUBSPOT，行业: NA。\n预计每股收益: $0.93，当前市值:
-	 $10\,697\,796\,600。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
+	 $11\,000\,982\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
 	在富途查看：https://www.futunn.com/hk/stock/HUBS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XvxvZvjD3-A-GLXYjyTIV
+UID:_4cm6kmr7NLbxnGx42BBU
 SUMMARY:FRESHWORKS 发布财报
-DTSTAMP:20261006T112847Z
+DTSTAMP:20261006T211127Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：FRSH，公司：FRESHWORKS，行业: NA。\n预计每股收益: $0.02，当前
-	市值: $3\,334\,567\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRSH 
+	市值: $3\,449\,372\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRSH 
 	\n在富途查看：https://www.futunn.com/hk/stock/FRSH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
