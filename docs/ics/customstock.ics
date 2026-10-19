@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3ykSjpX-YtljyLQ7WyuZ5
+UID:xh8C4jGh8sGZanRHCUiva
 SUMMARY:PEGASYSTEMS 盘后发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：PEGA，公司：PEGASYSTEMS，行业: NA。\n预计每股收益: $0.30，当
-	前市值: $5\,910\,358\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
+	前市值: $5\,678\,546\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEGA
 	 \n在富途查看：https://www.futunn.com/hk/stock/PEGA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fgEikZRpTST0ETcm41Lzy
+UID:J8i6lXD1RqemVwEPHB9Ep
 SUMMARY:SAP 盘后发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261021
-DESCRIPTION:财务季度：Sep/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2.03，当前市值: $276
-	\,413\,448\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
+DESCRIPTION:财务季度：Sep/2026。\n代码：SAP，公司：SAP，行业: NA。\n预计每股收益: $2.03，当前市值: $275
+	\,541\,230\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SAP \n在富途查看
 	：https://www.futunn.com/hk/stock/SAP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N-xqj8sBq_8oCp-7hUxkY
+UID:p9Zq_QXvuHC5WZgh42D3b
 SUMMARY:SERVICENOW 盘后发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：NOW，公司：SERVICENOW，行业: NA。\n预计每股收益: $0.56，当前市
-	值: $153\,621\,381\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
+	值: $146\,796\,986\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOW 
 	\n在富途查看：https://www.futunn.com/hk/stock/NOW-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CDwC1O-mZt0sEpn8b1-GC
+UID:9HV_oIYTcD3xpdlPwrHYW
 SUMMARY:AUTOMATIC DATA PROCESSING 盘前发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：ADP，公司：AUTOMATIC DATA PROCESSING，行业: NA。\n预计
-	每股收益: $2.78，当前市值: $113\,189\,257\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	每股收益: $2.78，当前市值: $114\,477\,072\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=ADP \n在富途查看：https://www.futunn.com/hk/stock/ADP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2O8cAs_nb_SAJ8ae1joAx
+UID:yo6yaxWGy__xwIZmFYjY9
 SUMMARY:FRESHWORKS 盘后发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：FRSH，公司：FRESHWORKS，行业: NA。\n预计每股收益: $0.02，当前
-	市值: $3\,718\,120\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRSH 
+	市值: $3\,585\,051\,390。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FRSH 
 	\n在富途查看：https://www.futunn.com/hk/stock/FRSH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MaJfE0V4wpnCQscLgSzEt
+UID:ITPk1e9die5_Lq5UoePRU
 SUMMARY:HUBSPOT 发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：HUBS，公司：HUBSPOT，行业: NA。\n预计每股收益: $0.91，当前市值:
-	 $11\,913\,534\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
+	 $11\,516\,100\,600。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUBS \n
 	在富途查看：https://www.futunn.com/hk/stock/HUBS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bQGwMgrkO4YdcQs56Lqhv
+UID:JXrNyUugyE5qSWqzy1kYr
 SUMMARY:ATLASSIAN 盘后发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:财务季度：Sep/2026。\n代码：TEAM，公司：ATLASSIAN，行业: NA。\n预计每股收益: $0.26，当前市
-	值: $54\,748\,238\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
+	值: $52\,403\,184\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEAM 
 	\n在富途查看：https://www.futunn.com/hk/stock/TEAM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tCuLCa7ODUyDRFZkU05Co
-SUMMARY:APPIAN 发布财报
-DTSTAMP:20261019T101237Z
+UID:O43jnR8Qo6dMu57w_BLow
+SUMMARY:APPIAN 盘前发布财报
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:财务季度：Sep/2026。\n代码：APPN，公司：APPIAN，行业: NA。\n预计每股收益: $0.16，当前市值: 
-	$3\,138\,721\,280。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APPN \n在富
+	$2\,948\,908\,290。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APPN \n在富
 	途查看：https://www.futunn.com/hk/stock/APPN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VbZoJgLLvGXKEGYmdlkq8
+UID:b4hUOcNCrho7RB5kRD3ja
 SUMMARY:MONDAY 发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261109
 DESCRIPTION:财务季度：Sep/2026。\n代码：MNDY，公司：MONDAY，行业: NA。\n预计每股收益: $0.49，当前市值: 
-	$4\,046\,124\,800。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MNDY \n在富
+	$3\,877\,500\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MNDY \n在富
 	途查看：https://www.futunn.com/hk/stock/MNDY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nkDlQ8kflvMq56MF6ncxc
+UID:61I_Pbl0W5kdgFZ_fXlZC
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261116
-DESCRIPTION:财务季度：Sep/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $9\,226
-	\,215\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
+DESCRIPTION:财务季度：Sep/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $8\,842
+	\,987\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4W_DB8oLjm4e7rFsu5NEP
+UID:as28qrq2-_oDM5WhUL9kS
 SUMMARY:百度 发布财报
-DTSTAMP:20261019T101237Z
+DTSTAMP:20261019T211312Z
 DTSTART;VALUE=DATE:20261117
-DESCRIPTION:财务季度：Sep/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.05，当前市值: $28
-	\,091\,258\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+DESCRIPTION:财务季度：Sep/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.05，当前市值: $27
+	\,267\,848\,200。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
